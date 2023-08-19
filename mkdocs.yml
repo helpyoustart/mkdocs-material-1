@@ -1,0 +1,15 @@
+site_name: "Data Hand: Help You Start"
+theme:
+  name: material
+# extra:
+#   social:
+#     - type: "github"
+#       link: "https://github.com/yourusername"
+#     - type: "twitter"
+#       link: "https://twitter.com/yourhandle"
+#     # Add other social media icons and links similarly.
+#   contact:
+#     - type: "phone"
+#       value: "+1 234 567 890"
+#     - type: "email"
+#       value: "youremail@example.com"

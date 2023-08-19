@@ -107,7 +107,7 @@ plugins:
           机器学习进阶: Advanced Machine Learning
           后记: Postscript
   - search:
-      lang: zh
+      lang: ja
   - git-revision-date-localized
   - minify:
       minify_html: true
@@ -118,7 +118,7 @@ extra:
       link: https://github.com/pkuflyingpig/cs-self-learning/
   analytics:
     provider: google
-    property: G-3TQTEG6FJ9
+    property: G-KJB4RXSKZG
 
 nav:
   - 前言: "index.md"

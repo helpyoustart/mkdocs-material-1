@@ -1,8 +1,10 @@
-site_name: 美国职场精进之路
+site_name: 数据行业之旅：从零基础到团队领导
+
 site_url: https://csdiy.wiki/
+
 site_author: Murong Daxia
 site_description: >-
-  美国职场精进之路，帮你事业更上一层楼。
+  美国职场精进之路，数据学习路线图，基础数据知识，数据职业规划和晋升，管理数据团队，人际关系
 
 repo_name: cs-self-learning
 repo_url: https://github.com/pkuflyingpig/cs-self-learning/
